@@ -16,12 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shagun-vyas&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/shagun-vyas/)
