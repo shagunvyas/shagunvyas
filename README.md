@@ -12,7 +12,7 @@
 
 - **Languages:** Python, C++, Java
 - **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, Figma 
 
 ---
 
