@@ -1,7 +1,7 @@
 # Hi, I'm Shagun Vyas 👋
 
 🎓 CSE (AI/ML) student at [KIIT University](https://kiit.ac.in/)  
-🔭 Passionate about Artificial Intelligence, Machine Learning, and Hackathons  
+🔭 Passionate about Artificial Intelligence and Machine Learning
 🌱 Currently learning: Deep Learning, Computer Vision, and NLP  
 💡 Always open to collaboration on innovative projects  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shagun-vyas/)
